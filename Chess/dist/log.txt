@@ -1,0 +1,438 @@
+Engine started
+IN: uci
+Engine started
+IN: uci
+Engine started
+IN: uci
+IN: isready
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4
+FEN set: rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g7g6
+OUT: bestmove g7g6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4
+FEN set: rnbqkbnr/pppppp1p/6p1/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq - 0 2
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f7f6
+OUT: bestmove f7f6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3
+FEN set: rnbqkbnr/ppppp2p/5pp1/8/3P2P1/7B/PPP1PP1P/RNBQK1NR b KQkq - 1 3
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b8a6
+OUT: bestmove b8a6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3
+FEN set: r1bqkbnr/ppppp2p/n4pp1/8/3P2P1/4B2B/PPP1PP1P/RN1QK1NR b KQkq - 3 4
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a6b4
+OUT: bestmove a6b4
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3
+FEN set: r1bqkbnr/ppppp2p/5pp1/8/1n1P2P1/2P1B2B/PP2PP1P/RN1QK1NR b KQkq - 0 5
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h7h6
+OUT: bestmove h7h6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3
+FEN set: r1bqkbnr/ppppp3/5ppp/8/1n1P2P1/P1P1B2B/1P2PP1P/RN1QK1NR b KQkq - 0 6
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a8b8
+OUT: bestmove a8b8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4
+FEN set: 1rbqkbnr/ppppp3/5ppp/8/1P1P2P1/2P1B2B/1P2PP1P/RN1QK1NR b KQk - 0 7
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h8h7
+OUT: bestmove h8h7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4
+FEN set: 1rbqkbn1/ppppp2r/5ppp/8/1P1P1BP1/2P4B/1P2PP1P/RN1QK1NR b KQ - 2 8
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e7e5
+OUT: bestmove e7e5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3
+FEN set: 1rbqkbn1/pppp3r/5ppp/4p3/1P1P2P1/2P1B2B/1P2PP1P/RN1QK1NR b KQ - 1 9
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv c7c5
+OUT: bestmove c7c5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4
+FEN set: 1rbqkbn1/pp1p3r/5ppp/2p1p3/1P1P1PP1/2P1B2B/1P2P2P/RN1QK1NR b KQ - 0 10
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g8e7
+OUT: bestmove g8e7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5
+FEN set: 1rbqkb2/pp1pn2r/5ppp/2P1p3/3P1PP1/2P1B2B/1P2P2P/RN1QK1NR b KQ - 0 11
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e5e4
+OUT: bestmove e5e4
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2
+FEN set: 1rbqkb2/pp1pn2r/5ppp/2P5/3PpPP1/2P1B3/1P2P1BP/RN1QK1NR b KQ - 1 12
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e7f5
+OUT: bestmove e7f5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2
+FEN set: 1rbqkb2/pp1p3r/5ppp/2P2n2/3PpPP1/2P5/1P1BP1BP/RN1QK1NR b KQ - 3 13
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d8b6
+OUT: bestmove d8b6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4
+FEN set: 1rb1kb2/pp1p3r/1q3ppp/2P2n2/3PBPP1/2P5/1P1BP2P/RN1QK1NR b KQ - 0 14
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a7a5
+OUT: bestmove a7a5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6
+FEN set: 1rb1kb2/1p1p3r/1P3ppp/p4n2/3PBPP1/2P5/1P1BP2P/RN1QK1NR b KQ - 0 15
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g6g5
+OUT: bestmove g6g5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5
+FEN set: 1rb1kb2/1p1p3r/1P3p1p/p4nP1/3PB1P1/2P5/1P1BP2P/RN1QK1NR b KQ - 0 16
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f8a3
+OUT: bestmove f8a3
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3
+FEN set: 1rb1k3/1p1p3r/1P3p1p/p4nP1/3PB1P1/R1P5/1P1BP2P/1N1QK1NR b K - 0 17
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f5g7
+OUT: bestmove f5g7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7
+FEN set: 1rb1k3/1p1p2nB/1P3p1p/p5P1/3P2P1/R1P5/1P1BP2P/1N1QK1NR b K - 0 18
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h6g5
+OUT: bestmove h6g5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6
+FEN set: 1rb1k3/1p1p2n1/1P3pB1/p5p1/3P2P1/R1P5/1P1BP2P/1N1QK1NR b K - 1 19
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e8e7
+OUT: bestmove e8e7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4
+FEN set: 1rb5/1p1pk1n1/1P3pB1/p5p1/2PP2P1/R7/1P1BP2P/1N1QK1NR b K - 0 20
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f6f5
+OUT: bestmove f6f5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5
+FEN set: 1rb5/1p1pk1n1/1P4B1/R4pp1/2PP2P1/8/1P1BP2P/1N1QK1NR b K - 0 21
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f5g4
+OUT: bestmove f5g4
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4
+FEN set: 1rb5/1p1pk1n1/1P4B1/R5p1/1BPP2p1/8/1P2P2P/1N1QK1NR b K - 1 22
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e7f6
+OUT: bestmove e7f6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5
+FEN set: 1rb5/1p1p2n1/1P3kB1/R2P2p1/1BP3p1/8/1P2P2P/1N1QK1NR b K - 0 23
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g7f5
+OUT: bestmove g7f5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3
+FEN set: 1rb5/1p1p4/1P3kB1/R2P1np1/2P3p1/2B5/1P2P2P/1N1QK1NR b K - 2 24
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f6g6
+OUT: bestmove f6g6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3
+FEN set: 1rb5/1p1p4/1P4k1/R2P1np1/2P3p1/2B4P/1P2P3/1N1QK1NR b K - 0 25
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g6h6
+OUT: bestmove g6h6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4
+FEN set: 1rb5/1p1p4/1P5k/R2P1np1/2P3P1/2B5/1P2P3/1N1QK1NR b K - 0 26
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f5h4
+OUT: bestmove f5h4
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3
+FEN set: 1rb5/1p1p4/1P5k/R2P2p1/2P3Pn/2B4N/1P2P3/1N1QK2R b K - 2 27
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h4f3
+OUT: bestmove h4f3
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3
+FEN set: 1rb5/1p1p4/1P5k/R2P2p1/2P3P1/2B2P1N/1P6/1N1QK2R b K - 0 28
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h6g6
+OUT: bestmove h6g6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2
+FEN set: 1rb5/1p1p4/1P4k1/R2P2p1/2P3P1/5P1N/1P1B4/1N1QK2R b K - 2 29
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b8a8
+OUT: bestmove b8a8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8
+FEN set: R1b5/1p1p4/1P4k1/3P2p1/2P3P1/5P1N/1P1B4/1N1QK2R b K - 0 30
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g6f7
+OUT: bestmove g6f7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8
+FEN set: 2R5/1p1p1k2/1P6/3P2p1/2P3P1/5P1N/1P1B4/1N1QK2R b K - 0 31
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f7e7
+OUT: bestmove f7e7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5
+FEN set: 2R5/1p1pk3/1P6/3P2N1/2P3P1/5P2/1P1B4/1N1QK2R b K - 0 32
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d7d6
+OUT: bestmove d7d6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7
+FEN set: 2R5/1p2k2R/1P1p4/3P2N1/2P3P1/5P2/1P1B4/1N1QK3 b - - 1 33
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e7f6
+OUT: bestmove e7f6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6
+FEN set: 2R5/1p6/1P1p1k1R/3P2N1/2P3P1/5P2/1P1B4/1N1QK3 b - - 3 34
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f6e7
+OUT: bestmove f6e7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7
+FEN set: 2R5/1p2k2R/1P1p4/3P2N1/2P3P1/5P2/1P1B4/1N1QK3 b - - 5 35
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e7f6
+OUT: bestmove e7f6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6
+FEN set: 2R5/1p6/1P1p1k1R/3P2N1/2P3P1/5P2/1P1B4/1N1QK3 b - - 7 36
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f6e7
+OUT: bestmove f6e7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6 f6e7 d2c3
+FEN set: 2R5/1p2k3/1P1p3R/3P2N1/2P3P1/2B2P2/1P6/1N1QK3 b - - 9 37
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e7d7
+OUT: bestmove e7d7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6 f6e7 d2c3 e7d7 h6h7
+FEN set: 2R5/1p1k3R/1P1p4/3P2N1/2P3P1/2B2P2/1P6/1N1QK3 b - - 11 38
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d7c8
+OUT: bestmove d7c8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6 f6e7 d2c3 e7d7 h6h7 d7c8 h7h8
+FEN set: 2k4R/1p6/1P1p4/3P2N1/2P3P1/2B2P2/1P6/1N1QK3 b - - 1 39
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv c8d7
+OUT: bestmove c8d7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6 f6e7 d2c3 e7d7 h6h7 d7c8 h7h8 c8d7 h8h7
+FEN set: 8/1p1k3R/1P1p4/3P2N1/2P3P1/2B2P2/1P6/1N1QK3 b - - 3 40
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d7e8
+OUT: bestmove d7e8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6 f6e7 d2c3 e7d7 h6h7 d7c8 h7h8 c8d7 h8h7 d7e8 d1e2
+FEN set: 4k3/1p5R/1P1p4/3P2N1/2P3P1/2B2P2/1P2Q3/1N2K3 b - - 5 41
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e8f8
+OUT: bestmove e8f8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves d2d4 g7g6 g2g4 f7f6 f1h3 b8a6 c1e3 a6b4 c2c3 h7h6 a2a3 a8b8 a3b4 h8h7 e3f4 e7e5 f4e3 c7c5 f2f4 g8e7 b4c5 e5e4 h3g2 e7f5 e3d2 d8b6 g2e4 a7a5 c5b6 g6g5 f4g5 f8a3 a1a3 f5g7 e4h7 h6g5 h7g6 e8e7 c3c4 f6f5 a3a5 f5g4 d2b4 e7f6 d4d5 g7f5 b4c3 f6g6 h2h3 g6h6 h3g4 f5h4 g1h3 h4f3 e2f3 h6g6 c3d2 b8a8 a5a8 g6f7 a8c8 f7e7 h3g5 d7d6 h1h7 e7f6 h7h6 f6e7 h6h7 e7f6 h7h6 f6e7 d2c3 e7d7 h6h7 d7c8 h7h8 c8d7 h8h7 d7e8 d1e2 e8f8 e2e4
+FEN set: 5k2/1p5R/1P1p4/3P2N1/2P1Q1P1/2B2P2/1P6/1N2K3 b - - 7 42
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f8g8
+OUT: bestmove f8g8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4
+FEN set: rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a7a6
+OUT: bestmove a7a6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5
+FEN set: rnbqkbnr/1ppppppp/p7/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a6a5
+OUT: bestmove a6a5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6
+FEN set: rnbqkbnr/1ppppppp/4P3/p7/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 3
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv c7c6
+OUT: bestmove c7c6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7
+FEN set: rnbqkbnr/1p1Ppppp/2p5/p7/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 4
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv c8d7
+OUT: bestmove c8d7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4
+FEN set: rn1qkbnr/1p1bpppp/2p5/p7/2B5/8/PPPP1PPP/RNBQK1NR b KQkq - 1 5
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d7g4
+OUT: bestmove d7g4
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4
+FEN set: rn1qkbnr/1p2pppp/2p5/p7/2B3Q1/8/PPPP1PPP/RNB1K1NR b KQkq - 0 6
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d8c7
+OUT: bestmove d8c7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3
+FEN set: rn2kbnr/1pq1pppp/2p5/p7/2B5/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 2 7
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h7h6
+OUT: bestmove h7h6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7
+FEN set: rn2kbnr/1pq1pBp1/2p4p/p7/8/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 0 8
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv e8d7
+OUT: bestmove e8d7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3
+FEN set: rn3bnr/1pqkpBp1/2p4p/p7/8/3Q4/PPPP1PPP/RNB1K1NR b KQ - 2 9
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv c7d6
+OUT: bestmove c7d6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3
+FEN set: rn3bnr/1p1kpBp1/2pq3p/p7/8/3Q1N2/PPPP1PPP/RNB1K2R b KQ - 4 10
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a8a7
+OUT: bestmove a8a7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5
+FEN set: 1n3bnr/rp1kpBp1/2pq3p/p4Q2/8/5N2/PPPP1PPP/RNB1K2R b KQ - 6 11
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d7c7
+OUT: bestmove d7c7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4
+FEN set: 1n3bnr/rpk1pBp1/2pq3p/p4Q2/7P/5N2/PPPP1PP1/RNB1K2R b KQ - 0 12
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a5a4
+OUT: bestmove a5a4
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3
+FEN set: 1n3bnr/rpk1pBp1/2pq3p/5Q2/p6P/3P1N2/PPP2PP1/RNB1K2R b KQ - 0 13
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv d6f6
+OUT: bestmove d6f6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5
+FEN set: 1n3bnr/rpk1pBp1/2p2q1p/4Q3/p6P/3P1N2/PPP2PP1/RNB1K2R b KQ - 2 14
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv c7b6
+OUT: bestmove c7b6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4
+FEN set: 1n3bnr/rp2pBp1/1kp2q1p/8/p4Q1P/3P1N2/PPP2PP1/RNB1K2R b KQ - 4 15
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b6a5
+OUT: bestmove b6a5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2
+FEN set: 1n3bnr/rp2pBp1/2p2q1p/k7/p4Q1P/3P1N2/PPPB1PP1/RN2K2R b KQ - 6 16
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv f6c3
+OUT: bestmove f6c3
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3
+FEN set: 1n3bnr/rp2pBp1/2p4p/k7/p4Q1P/2BP1N2/PPP2PP1/RN2K2R b KQ - 0 17
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a5b6
+OUT: bestmove a5b6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5
+FEN set: 1n3bnr/rp2pBp1/1kp4p/5Q2/p6P/2BP1N2/PPP2PP1/RN2K2R b KQ - 2 18
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h6h5
+OUT: bestmove h6h5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5
+FEN set: 1n3bnr/rp2pBp1/1kp5/B4Q1p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 1 19
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b6a6
+OUT: bestmove b6a6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4
+FEN set: 1n3bnr/rp2p1p1/k1p5/B4Q1p/p1B4P/3P1N2/PPP2PP1/RN2K2R b KQ - 3 20
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b7b5
+OUT: bestmove b7b5
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5
+FEN set: 1n3bnr/r3p1p1/k1p5/BB3Q1p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 0 21
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a6b7
+OUT: bestmove a6b7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4
+FEN set: 1n3bnr/rk2p1p1/2p5/BB5p/p3Q2P/3P1N2/PPP2PP1/RN2K2R b KQ - 2 22
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv h8h7
+OUT: bestmove h8h7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4
+FEN set: 1n3bn1/rk2p1pr/2p5/BB5p/p2Q3P/3P1N2/PPP2PP1/RN2K2R b KQ - 4 23
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g8h6
+OUT: bestmove g8h6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7
+FEN set: 1n3b2/rk1Qp1pr/2p4n/BB5p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 6 24
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b7a8
+OUT: bestmove b7a8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7 b7a8 b5c6
+FEN set: kn3b2/r2Qp1pr/2B4n/B6p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 0 25
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a7b7
+OUT: bestmove a7b7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7 b7a8 b5c6 a7b7 c6b7
+FEN set: kn3b2/1B1Qp1pr/7n/B6p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 0 26
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a8a7
+OUT: bestmove a8a7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7 b7a8 b5c6 a7b7 c6b7 a8a7 d7d5
+FEN set: 1n3b2/kB2p1pr/7n/B2Q3p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 2 27
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv g7g6
+OUT: bestmove g7g6
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7 b7a8 b5c6 a7b7 c6b7 a8a7 d7d5 g7g6 d5c5
+FEN set: 1n3b2/kB2p2r/6pn/B1Q4p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 1 28
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv a7b7
+OUT: bestmove a7b7
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7 b7a8 b5c6 a7b7 c6b7 a8a7 d7d5 g7g6 d5c5 a7b7 c5b5
+FEN set: 1n3b2/1k2p2r/6pn/BQ5p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 1 29
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b7c8
+OUT: bestmove b7c8
+IN: stop
+IN: position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 moves e2e4 a7a6 e4e5 a6a5 e5e6 c7c6 e6d7 c8d7 f1c4 d7g4 d1g4 d8c7 g4f3 h7h6 c4f7 e8d7 f3d3 c7d6 g1f3 a8a7 d3f5 d7c7 h2h4 a5a4 d2d3 d6f6 f5e5 c7b6 e5f4 b6a5 c1d2 f6c3 d2c3 a5b6 f4f5 h6h5 c3a5 b6a6 f7c4 b7b5 c4b5 a6b7 f5e4 h8h7 e4d4 g8h6 d4d7 b7a8 b5c6 a7b7 c6b7 a8a7 d7d5 g7g6 d5c5 a7b7 c5b5 b7c8 b5c6
+FEN set: 1nk2b2/4p2r/2Q3pn/B6p/p6P/3P1N2/PPP2PP1/RN2K2R b KQ - 3 30
+IN: go depth 24
+OUT: info depth 1 score cp 0 pv b8c6
+OUT: bestmove b8c6
